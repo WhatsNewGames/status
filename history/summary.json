@@ -22,19 +22,19 @@
     "url": "https://whatsnew.games/api/status/igdb/webhooks",
     "icon": "https://icons.duckduckgo.com/ip3/whatsnew.games.ico",
     "slug": "igdb-webhooks",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 520,
-    "timeWeek": 587,
-    "timeMonth": 549,
-    "timeYear": 549,
+    "status": "up",
+    "uptime": "98.27%",
+    "uptimeDay": "75.60%",
+    "uptimeWeek": "96.51%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "98.27%",
+    "time": 538,
+    "timeDay": 468,
+    "timeWeek": 562,
+    "timeMonth": 538,
+    "timeYear": 538,
     "dailyMinutesDown": {
-      "2022-10-20": 0
+      "2022-10-20": 351
     }
   }
 ]
