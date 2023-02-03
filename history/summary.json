@@ -4,18 +4,20 @@
     "url": "https://whatsnew.games",
     "icon": "https://icons.duckduckgo.com/ip3/whatsnew.games.ico",
     "slug": "what-s-new-games",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 197,
-    "timeWeek": 407,
-    "timeMonth": 450,
-    "timeYear": 445,
-    "dailyMinutesDown": {}
+    "time": 446,
+    "timeDay": 408,
+    "timeWeek": 433,
+    "timeMonth": 454,
+    "timeYear": 446,
+    "dailyMinutesDown": {
+      "2023-02-03": 0
+    }
   },
   {
     "name": "IGDB Webhooks",
@@ -25,8 +27,8 @@
     "status": "down",
     "uptime": "93.04%",
     "uptimeDay": "57.39%",
-    "uptimeWeek": "71.27%",
-    "uptimeMonth": "78.13%",
+    "uptimeWeek": "71.12%",
+    "uptimeMonth": "78.10%",
     "uptimeYear": "93.04%",
     "time": 606,
     "timeDay": 730,
@@ -34,7 +36,7 @@
     "timeMonth": 515,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2023-02-03": 0,
+      "2023-02-03": 16,
       "2023-02-02": 949,
       "2023-02-01": 1440,
       "2023-01-31": 324,
