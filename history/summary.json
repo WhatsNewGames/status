@@ -25,7 +25,7 @@
     "url": "https://whatsnew.games/api/status/igdb/webhooks",
     "icon": "https://icons.duckduckgo.com/ip3/whatsnew.games.ico",
     "slug": "igdb-webhooks",
-    "status": "up",
+    "status": "down",
     "uptime": "94.58%",
     "uptimeDay": "97.11%",
     "uptimeWeek": "99.59%",
@@ -37,6 +37,7 @@
     "timeMonth": 505,
     "timeYear": 594,
     "dailyMinutesDown": {
+      "2023-05-24": 0,
       "2023-05-23": 42,
       "2023-04-12": 858,
       "2023-02-19": 619,
