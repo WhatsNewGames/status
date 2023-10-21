@@ -6,17 +6,16 @@
     "slug": "what-s-new-games",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 591,
-    "timeDay": 698,
-    "timeWeek": 654,
-    "timeMonth": 763,
-    "timeYear": 596,
+    "timeDay": 661,
+    "timeWeek": 660,
+    "timeMonth": 753,
+    "timeYear": 597,
     "dailyMinutesDown": {
-      "2023-10-20": 8,
       "2023-10-03": 48,
       "2023-06-28": 16,
       "2023-06-13": 74,
@@ -35,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.86%",
-    "time": 751,
-    "timeDay": 1229,
-    "timeWeek": 581,
-    "timeMonth": 646,
-    "timeYear": 760,
+    "time": 750,
+    "timeDay": 294,
+    "timeWeek": 571,
+    "timeMonth": 643,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2023-08-23": 33,
       "2023-08-19": 24,
@@ -77,8 +76,7 @@
       "2022-11-05": 513,
       "2022-11-04": 16,
       "2022-11-01": 138,
-      "2022-10-22": 577,
-      "2022-10-21": 144
+      "2022-10-22": 577
     }
   }
 ]
