@@ -1,7 +1,7 @@
 url: https://whatsnew.games/api/status/igdb/webhooks
 status: down
-code: 500
-responseTime: 543
-lastUpdated: 2024-05-10T03:51:24.725Z
+code: 503
+responseTime: 509
+lastUpdated: 2024-05-10T23:14:12.363Z
 startTime: 2022-10-06T10:33:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
