@@ -10,16 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 608,
-    "timeDay": 336,
-    "timeWeek": 300,
-    "timeMonth": 425,
-    "timeYear": 600,
+    "time": 609,
+    "timeDay": 580,
+    "timeWeek": 349,
+    "timeMonth": 434,
+    "timeYear": 601,
     "dailyMinutesDown": {
       "2024-01-17": 23,
       "2023-10-03": 48,
-      "2023-06-28": 16,
-      "2023-06-13": 74
+      "2023-06-28": 16
     }
   },
   {
@@ -28,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/whatsnew.games.ico",
     "slug": "igdb-webhooks",
     "status": "up",
-    "uptime": "96.25%",
+    "uptime": "96.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.62%",
+    "uptimeMonth": "81.90%",
     "uptimeYear": "97.85%",
     "time": 778,
-    "timeDay": 783,
-    "timeWeek": 479,
-    "timeMonth": 512,
-    "timeYear": 746,
+    "timeDay": 795,
+    "timeWeek": 534,
+    "timeMonth": 522,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2024-05-17": 807,
       "2024-05-16": 1440,
@@ -53,8 +52,7 @@
       "2023-12-03": 82,
       "2023-08-23": 33,
       "2023-08-19": 24,
-      "2023-06-28": 16,
-      "2023-06-13": 213
+      "2023-06-28": 16
     }
   }
 ]
