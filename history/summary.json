@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 813,
-    "timeWeek": 812,
-    "timeMonth": 777,
-    "timeYear": 727,
+    "time": 656,
+    "timeDay": 744,
+    "timeWeek": 783,
+    "timeMonth": 783,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2024-08-27": 16
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/whatsnew.games.ico",
     "slug": "igdb-webhooks",
     "status": "up",
-    "uptime": "97.72%",
+    "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 506,
-    "timeDay": 702,
-    "timeWeek": 453,
-    "timeMonth": 465,
-    "timeYear": 485,
+    "time": 507,
+    "timeDay": 754,
+    "timeWeek": 535,
+    "timeMonth": 483,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2024-08-27": 37
     }
