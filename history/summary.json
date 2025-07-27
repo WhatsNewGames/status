@@ -4,7 +4,7 @@
     "url": "https://whatsnew.games",
     "icon": "https://icons.duckduckgo.com/ip3/whatsnew.games.ico",
     "slug": "what-s-new-games",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -14,8 +14,9 @@
     "timeDay": 700,
     "timeWeek": 601,
     "timeMonth": 738,
-    "timeYear": 729,
+    "timeYear": 728,
     "dailyMinutesDown": {
+      "2025-07-27": 0,
       "2024-08-27": 16
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://whatsnew.games/api/status/igdb/webhooks",
     "icon": "https://icons.duckduckgo.com/ip3/whatsnew.games.ico",
     "slug": "igdb-webhooks",
-    "status": "up",
+    "status": "down",
     "uptime": "97.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 497,
+    "time": 491,
     "timeDay": 1013,
     "timeWeek": 469,
     "timeMonth": 445,
     "timeYear": 484,
     "dailyMinutesDown": {
+      "2025-07-27": 0,
       "2024-08-27": 37
     }
   }
